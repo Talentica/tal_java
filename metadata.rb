@@ -1,0 +1,7 @@
+name             'tal_java'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures tal_java'
+long_description 'Installs/Configures tal_java'
+version          '0.1.0'
