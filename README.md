@@ -1,20 +1,42 @@
-javaw-cookbook
+tal_java
+
+
 
 Java wrapper cookbook to install openjdk on ubuntu and other flavours of linux
+
 Supported Platforms
 
-Ubuntu Rhel etc.
-Usage
-javaw::default
 
-Include javaw in your node's run_list:
+
+Ubuntu Rhel etc.
+
+
+Usage
+
+
+tal_java::default
+
+
+
+Include tal_java in your node's run_list:
+
+
 
 {
+
   "run_list": [
-    "recipe[javaw::default]"
+
+    "recipe[tal_java::default]"
+
   ]
+
 }
+
+
 
 License and Authors
 
+
+
 Talentica/shantanupanda
+
